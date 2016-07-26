@@ -38,7 +38,7 @@ We are hosted at [Maven Central] (http://search.maven.org), one of the quickest 
     <groupId>uk.co.boundedbuffer</groupId>
     <artifactId>low-latency-primitive-concurrent-queues</artifactId>
     <version>1.0.1</version>
-<dependency>
+</dependency>
 ```
 
 ### JavaDoc
